@@ -1,0 +1,24 @@
+body{
+
+    test-align:center;
+} 
+h1{
+    font-size: 20px;
+}
+#heading-1{
+    background-color: blue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#heading-2{
+    background-color: blueviolet;
+}
+.highlight{
+    color: cadetblue;
+}
+.web1{
+    color: cornflowerblue;
+    background-color: crimson;
+}
+#Java{
+    font-size: xx-large;
+}
